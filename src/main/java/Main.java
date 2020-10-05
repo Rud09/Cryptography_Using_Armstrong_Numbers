@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//execution begins
+//todo - use command line args
 public class Main {
     public static void main(String[] args){
         try{
